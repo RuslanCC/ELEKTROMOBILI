@@ -23,7 +23,6 @@
 	<plugin name="cordova-plugin-geolocation"/>
     <plugin name="cordova-plugin-file"/>
     <plugin name="cordova-plugin-device"/>
-	<plugin name="cordova-plugin-whitelist"/>
     <plugin name="cordova-plugin-fileopener"/>
     <access origin="*" launch-external="yes" />
 	<allow-intent href="http://*/*" />
